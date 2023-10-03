@@ -1,0 +1,3 @@
+/Users/andreseidenglanz/Library/Mobile Documents/com~apple~CloudDocs/Studium/5 Semester/CS2100/assignments/CS2100Assig1/cmake-build-debug/CMakeFiles/CS2100Assig1.dir
+/Users/andreseidenglanz/Library/Mobile Documents/com~apple~CloudDocs/Studium/5 Semester/CS2100/assignments/CS2100Assig1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andreseidenglanz/Library/Mobile Documents/com~apple~CloudDocs/Studium/5 Semester/CS2100/assignments/CS2100Assig1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
